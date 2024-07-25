@@ -1,4 +1,4 @@
-<h1>**Project Overview</h1>
+<h1>Project Overview</h1>
 The goal of this project is to utilize provided datasets to help Toman Bike Share to understand if increasing prices next year is possible. 
 
  <h2>Tools Used</h2>
